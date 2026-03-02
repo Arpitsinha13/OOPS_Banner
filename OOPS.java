@@ -1,9 +1,3 @@
-//This is UC 2
-/*
-
-@author Arpit
-@version 2.0
-*/
 
 class OOPS{
 	public static void main(String args[]){
@@ -15,4 +9,8 @@ class OOPS{
         System.out.println("*     * *     * *            * ");
         System.out.println(" **   **  *       ***  ");
     }
-}
+=======
+		System.out.println("This is Use Case 1");
+		System.out.println("OOPs statement");
+	}
+}v
