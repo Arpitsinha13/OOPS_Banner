@@ -1,4 +1,4 @@
-//author Nitheesh
+//author 
 //version 2
     public class OOPSBannerUC2{
     public static void main(String[] args) {
